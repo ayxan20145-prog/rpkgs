@@ -1,9 +1,0 @@
-{
-  "packages": {
-    "AIM": {
-      "version": "1.0.0",
-      "description": "A modal text editor written in rust",
-      "url": "https://github.com/ayxan20145-prog/tarman-pkgs/packages/AIM.tar.gz"
-    }
-  }
-}
