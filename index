@@ -1,0 +1,11 @@
+AIM
+description AIM is a simple modal editor written in rust
+version 1.0.0
+url https://raw.githubusercontent.com/ayxan20145-prog/rpkgs/main/packages/AIM.tar.gz
+end
+
+AExplorer
+description A tui file exlporer written in rust
+version 1.0.0
+url https://raw.githubusercontent.com/ayxan20145-prog/rpkgs/main/packages/AIM.tar.gz
+end
