@@ -7,5 +7,5 @@ end
 AExplorer
 description A tui file exlporer written in rust
 version 1.0.0
-url https://raw.githubusercontent.com/ayxan20145-prog/rpkgs/main/packages/AIM.tar.gz
+url https://raw.githubusercontent.com/ayxan20145-prog/rpkgs/main/packages/AExplorer.tar.gz
 end
