@@ -15,3 +15,10 @@ description swall is a tui app written in rust that helps generate scripts to se
 version 1.0.0
 url https://raw.githubusercontent.com/ayxan20145-prog/rpkgs/main/packages/swall.tar.gz
 end
+
+
+als
+description the rust version of ls
+version 1.0.0
+url https://raw.githubusercontent.com/ayxan20145-prog/rpkgs/main/packages/als.tar.gz
+end
