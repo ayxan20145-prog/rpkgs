@@ -1,6 +1,8 @@
 # Packages structure
 
+```text
 package/
-  bin/
-    executable
-  LICENSE
+├── bin/
+│   └── executable
+└── LICENSE
+```
