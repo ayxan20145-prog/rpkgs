@@ -22,3 +22,9 @@ description the rust version of ls
 version 1.0.0
 url https://raw.githubusercontent.com/ayxan20145-prog/rpkgs/main/packages/als.tar.gz
 end
+
+rfetch
+description rfetch is a neofetch clone written in rust
+version 1.0.0
+url https://raw.githubusercontent.com/ayxan20145-prog/rpkgs/main/packages/rfetch.tar.gz
+end
