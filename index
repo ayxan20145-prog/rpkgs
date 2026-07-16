@@ -28,3 +28,9 @@ description rfetch is a neofetch clone written in rust
 version 1.0.0
 url https://raw.githubusercontent.com/ayxan20145-prog/rpkgs/main/packages/rfetch.tar.gz
 end
+
+rshot
+description rshot is a screenshot utility for X11 written in rust
+version 1.0.0
+url https://raw.githubusercontent.com/ayxan20145-prog/rpkgs/main/packages/rshot.tar.gz
+end
